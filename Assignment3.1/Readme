@@ -1,0 +1,16 @@
+Using framework bootstrap
+
+My database structure for comment:
+1.ID 2. Content 3. Parent 4. Has_child.
+
+ID is the primary attribute, 
+parent -1 means root.
+Has_child -1 means no child, 1 means has child.
+
+the print_comment_rec function recursively prints out all the comment in database.
+
+For pretection from injection attacks, I used the mysql_real_escape_string function.
+
+For filter, I used the str_replace function.
+
+URL: https://web.engr.illinois.edu/~pan30/

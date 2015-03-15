@@ -1,0 +1,12 @@
+Steps:
+1.Display the initial board setting.
+2.Player able to input player name.
+3.Show whose turn is it.
+4.Move a white pawn to a valid position. The chess board should display the change.
+5.The turn should be passed to the black player.
+6.Try to move a white piece, the GUI should give message that it's an invalid move.
+7.Try to move other black pieces invalidly. Like Move pawn three steps, or move queen across blocking pawn.
+8.Test undo functionality.
+9.Test if checked message is shown.
+10.Test checkmate and stalemate functionality.
+11.Test draw functionality.

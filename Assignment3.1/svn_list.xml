@@ -1,0 +1,2230 @@
+<?xml version="1.0"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/sp14-cs242/pan30">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="1845">
+<author>pan30</author>
+<date>2014-01-30T22:46:08.255925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/maze.cpp</name>
+<size>5949</size>
+<commit
+   revision="1845">
+<author>pan30</author>
+<date>2014-01-30T22:46:08.255925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/maze.h</name>
+<size>478</size>
+<commit
+   revision="1834">
+<author>pan30</author>
+<date>2014-01-30T22:34:55.925779Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="3111">
+<author>pan30</author>
+<date>2014-02-06T20:34:19.587123Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.classpath</name>
+<size>379</size>
+<commit
+   revision="3081">
+<author>pan30</author>
+<date>2014-02-06T19:24:58.939233Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.project</name>
+<size>389</size>
+<commit
+   revision="2629">
+<author>pan30</author>
+<date>2014-02-04T21:26:55.173823Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.settings</name>
+<commit
+   revision="2629">
+<author>pan30</author>
+<date>2014-02-04T21:26:55.173823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>598</size>
+<commit
+   revision="2629">
+<author>pan30</author>
+<date>2014-02-04T21:26:55.173823Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/bin</name>
+<commit
+   revision="3111">
+<author>pan30</author>
+<date>2014-02-06T20:34:19.587123Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/bin/chessPieces</name>
+<commit
+   revision="3111">
+<author>pan30</author>
+<date>2014-02-06T20:34:19.587123Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chessPieces/Bishop.class</name>
+<size>1562</size>
+<commit
+   revision="3081">
+<author>pan30</author>
+<date>2014-02-06T19:24:58.939233Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chessPieces/Board.class</name>
+<size>5648</size>
+<commit
+   revision="3111">
+<author>pan30</author>
+<date>2014-02-06T20:34:19.587123Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chessPieces/King.class</name>
+<size>1399</size>
+<commit
+   revision="3081">
+<author>pan30</author>
+<date>2014-02-06T19:24:58.939233Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chessPieces/Knight.class</name>
+<size>1415</size>
+<commit
+   revision="3081">
+<author>pan30</author>
+<date>2014-02-06T19:24:58.939233Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chessPieces/Pawn.class</name>
+<size>1557</size>
+<commit
+   revision="3081">
+<author>pan30</author>
+<date>2014-02-06T19:24:58.939233Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chessPieces/Pieces.class</name>
+<size>1048</size>
+<commit
+   revision="3081">
+<author>pan30</author>
+<date>2014-02-06T19:24:58.939233Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chessPieces/Queen.class</name>
+<size>1858</size>
+<commit
+   revision="3111">
+<author>pan30</author>
+<date>2014-02-06T20:34:19.587123Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chessPieces/Rook.class</name>
+<size>1529</size>
+<commit
+   revision="3081">
+<author>pan30</author>
+<date>2014-02-06T19:24:58.939233Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chessPieces/Test1.class</name>
+<size>2883</size>
+<commit
+   revision="3111">
+<author>pan30</author>
+<date>2014-02-06T20:34:19.587123Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src</name>
+<commit
+   revision="3111">
+<author>pan30</author>
+<date>2014-02-06T20:34:19.587123Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/chessPieces</name>
+<commit
+   revision="3111">
+<author>pan30</author>
+<date>2014-02-06T20:34:19.587123Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chessPieces/Bishop.java</name>
+<size>2078</size>
+<commit
+   revision="3081">
+<author>pan30</author>
+<date>2014-02-06T19:24:58.939233Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chessPieces/Board.java</name>
+<size>7997</size>
+<commit
+   revision="3111">
+<author>pan30</author>
+<date>2014-02-06T20:34:19.587123Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chessPieces/King.java</name>
+<size>1904</size>
+<commit
+   revision="3081">
+<author>pan30</author>
+<date>2014-02-06T19:24:58.939233Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chessPieces/Knight.java</name>
+<size>1692</size>
+<commit
+   revision="3081">
+<author>pan30</author>
+<date>2014-02-06T19:24:58.939233Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chessPieces/Pawn.java</name>
+<size>2393</size>
+<commit
+   revision="3081">
+<author>pan30</author>
+<date>2014-02-06T19:24:58.939233Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chessPieces/Pieces.java</name>
+<size>946</size>
+<commit
+   revision="3081">
+<author>pan30</author>
+<date>2014-02-06T19:24:58.939233Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chessPieces/Queen.java</name>
+<size>3002</size>
+<commit
+   revision="3111">
+<author>pan30</author>
+<date>2014-02-06T20:34:19.587123Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chessPieces/Rook.java</name>
+<size>2020</size>
+<commit
+   revision="3081">
+<author>pan30</author>
+<date>2014-02-06T19:24:58.939233Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chessPieces/Test1.java</name>
+<size>2836</size>
+<commit
+   revision="3111">
+<author>pan30</author>
+<date>2014-02-06T20:34:19.587123Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.classpath</name>
+<size>379</size>
+<commit
+   revision="4099">
+<author>pan30</author>
+<date>2014-02-13T06:54:49.320508Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.project</name>
+<size>389</size>
+<commit
+   revision="3686">
+<author>pan30</author>
+<date>2014-02-11T04:19:29.367933Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.settings</name>
+<commit
+   revision="3686">
+<author>pan30</author>
+<date>2014-02-11T04:19:29.367933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.settings/org.eclipse.jdt.core.prefs</name>
+<size>598</size>
+<commit
+   revision="3686">
+<author>pan30</author>
+<date>2014-02-11T04:19:29.367933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>12964</size>
+<commit
+   revision="4247">
+<author>pan30</author>
+<date>2014-02-13T17:57:11.233484Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/bin</name>
+<commit
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/bin/chessPieces</name>
+<commit
+   revision="4289">
+<author>pan30</author>
+<date>2014-02-13T19:35:01.026700Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chessPieces/Bishop.class</name>
+<size>1684</size>
+<commit
+   revision="4099">
+<author>pan30</author>
+<date>2014-02-13T06:54:49.320508Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chessPieces/Board.class</name>
+<size>576</size>
+<commit
+   revision="4244">
+<author>pan30</author>
+<date>2014-02-13T17:47:53.025330Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chessPieces/Cannon.class</name>
+<size>1976</size>
+<commit
+   revision="4244">
+<author>pan30</author>
+<date>2014-02-13T17:47:53.025330Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chessPieces/HopperQueen.class</name>
+<size>1996</size>
+<commit
+   revision="4244">
+<author>pan30</author>
+<date>2014-02-13T17:47:53.025330Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chessPieces/King.class</name>
+<size>1487</size>
+<commit
+   revision="4099">
+<author>pan30</author>
+<date>2014-02-13T06:54:49.320508Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chessPieces/Knight.class</name>
+<size>1503</size>
+<commit
+   revision="4099">
+<author>pan30</author>
+<date>2014-02-13T06:54:49.320508Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chessPieces/Pawn.class</name>
+<size>1695</size>
+<commit
+   revision="4099">
+<author>pan30</author>
+<date>2014-02-13T06:54:49.320508Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chessPieces/Pieces.class</name>
+<size>1144</size>
+<commit
+   revision="4099">
+<author>pan30</author>
+<date>2014-02-13T06:54:49.320508Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chessPieces/Player.class</name>
+<size>1761</size>
+<commit
+   revision="4289">
+<author>pan30</author>
+<date>2014-02-13T19:35:01.026700Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chessPieces/Queen.class</name>
+<size>1972</size>
+<commit
+   revision="4099">
+<author>pan30</author>
+<date>2014-02-13T06:54:49.320508Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chessPieces/Rook.class</name>
+<size>1643</size>
+<commit
+   revision="4099">
+<author>pan30</author>
+<date>2014-02-13T06:54:49.320508Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chessPieces/StandardBoard.class</name>
+<size>7691</size>
+<commit
+   revision="4280">
+<author>pan30</author>
+<date>2014-02-13T19:23:18.119188Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/bin/gameInterface</name>
+<commit
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/gameInterface/GameView.class</name>
+<size>4198</size>
+<commit
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/bin/tests</name>
+<commit
+   revision="4312">
+<author>pan30</author>
+<date>2014-02-13T20:05:20.045998Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/tests/GUITestPlan</name>
+<size>578</size>
+<commit
+   revision="4312">
+<author>pan30</author>
+<date>2014-02-13T20:05:20.045998Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/tests/TestEndGame.class</name>
+<size>1516</size>
+<commit
+   revision="4289">
+<author>pan30</author>
+<date>2014-02-13T19:35:01.026700Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/tests/TestInit.class</name>
+<size>738</size>
+<commit
+   revision="4099">
+<author>pan30</author>
+<date>2014-02-13T06:54:49.320508Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/tests/TestPawn.class</name>
+<size>1052</size>
+<commit
+   revision="4244">
+<author>pan30</author>
+<date>2014-02-13T17:47:53.025330Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/tests/TestQueen.class</name>
+<size>1188</size>
+<commit
+   revision="4244">
+<author>pan30</author>
+<date>2014-02-13T17:47:53.025330Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/tests/VisualizedTestCannon.class</name>
+<size>997</size>
+<commit
+   revision="4244">
+<author>pan30</author>
+<date>2014-02-13T17:47:53.025330Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/tests/VisualizedTestCapturePawn.class</name>
+<size>990</size>
+<commit
+   revision="4289">
+<author>pan30</author>
+<date>2014-02-13T19:35:01.026700Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/tests/VisualizedTestHopperQueen.class</name>
+<size>1020</size>
+<commit
+   revision="4280">
+<author>pan30</author>
+<date>2014-02-13T19:23:18.119188Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/images</name>
+<commit
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/StandardBoard.jpg</name>
+<size>120505</size>
+<commit
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/chess_piece_black_bishop.png</name>
+<size>2341</size>
+<commit
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/chess_piece_black_king.png</name>
+<size>3520</size>
+<commit
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/chess_piece_black_knight.png</name>
+<size>2475</size>
+<commit
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/chess_piece_black_pawn.png</name>
+<size>1379</size>
+<commit
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/chess_piece_black_queen.png</name>
+<size>3601</size>
+<commit
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/chess_piece_black_rook.png</name>
+<size>1684</size>
+<commit
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/chess_piece_white_bishop.png</name>
+<size>3147</size>
+<commit
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/chess_piece_white_king.png</name>
+<size>3614</size>
+<commit
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/chess_piece_white_knight.png</name>
+<size>2971</size>
+<commit
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/chess_piece_white_pawn.png</name>
+<size>2052</size>
+<commit
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/chess_piece_white_queen.png</name>
+<size>4749</size>
+<commit
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/chess_piece_white_rook.png</name>
+<size>2124</size>
+<commit
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/manual_test.doc</name>
+<size>216064</size>
+<commit
+   revision="5001">
+<author>pan30</author>
+<date>2014-02-16T06:50:22.839248Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src</name>
+<commit
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/chessPieces</name>
+<commit
+   revision="4289">
+<author>pan30</author>
+<date>2014-02-13T19:35:01.026700Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chessPieces/Bishop.java</name>
+<size>2096</size>
+<commit
+   revision="4099">
+<author>pan30</author>
+<date>2014-02-13T06:54:49.320508Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chessPieces/Board.java</name>
+<size>412</size>
+<commit
+   revision="4244">
+<author>pan30</author>
+<date>2014-02-13T17:47:53.025330Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chessPieces/Cannon.java</name>
+<size>3288</size>
+<commit
+   revision="4244">
+<author>pan30</author>
+<date>2014-02-13T17:47:53.025330Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chessPieces/HopperQueen.java</name>
+<size>3304</size>
+<commit
+   revision="4244">
+<author>pan30</author>
+<date>2014-02-13T17:47:53.025330Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chessPieces/King.java</name>
+<size>1928</size>
+<commit
+   revision="4099">
+<author>pan30</author>
+<date>2014-02-13T06:54:49.320508Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chessPieces/Knight.java</name>
+<size>1716</size>
+<commit
+   revision="4099">
+<author>pan30</author>
+<date>2014-02-13T06:54:49.320508Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chessPieces/Pawn.java</name>
+<size>2431</size>
+<commit
+   revision="4099">
+<author>pan30</author>
+<date>2014-02-13T06:54:49.320508Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chessPieces/Pieces.java</name>
+<size>1383</size>
+<commit
+   revision="4099">
+<author>pan30</author>
+<date>2014-02-13T06:54:49.320508Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chessPieces/Player.java</name>
+<size>1418</size>
+<commit
+   revision="4289">
+<author>pan30</author>
+<date>2014-02-13T19:35:01.026700Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chessPieces/Queen.java</name>
+<size>3026</size>
+<commit
+   revision="4099">
+<author>pan30</author>
+<date>2014-02-13T06:54:49.320508Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chessPieces/Rook.java</name>
+<size>2040</size>
+<commit
+   revision="4099">
+<author>pan30</author>
+<date>2014-02-13T06:54:49.320508Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chessPieces/StandardBoard.java</name>
+<size>10999</size>
+<commit
+   revision="4280">
+<author>pan30</author>
+<date>2014-02-13T19:23:18.119188Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/gameInterface</name>
+<commit
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/gameInterface/GameView.java</name>
+<size>3734</size>
+<commit
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/tests</name>
+<commit
+   revision="4312">
+<author>pan30</author>
+<date>2014-02-13T20:05:20.045998Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/GUITestPlan</name>
+<size>578</size>
+<commit
+   revision="4312">
+<author>pan30</author>
+<date>2014-02-13T20:05:20.045998Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/TestEndGame.java</name>
+<size>1271</size>
+<commit
+   revision="4289">
+<author>pan30</author>
+<date>2014-02-13T19:35:01.026700Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/TestInit.java</name>
+<size>398</size>
+<commit
+   revision="4289">
+<author>pan30</author>
+<date>2014-02-13T19:35:01.026700Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/TestPawn.java</name>
+<size>1111</size>
+<commit
+   revision="4289">
+<author>pan30</author>
+<date>2014-02-13T19:35:01.026700Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/TestQueen.java</name>
+<size>870</size>
+<commit
+   revision="4289">
+<author>pan30</author>
+<date>2014-02-13T19:35:01.026700Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/VisualizedTestCannon.java</name>
+<size>547</size>
+<commit
+   revision="4244">
+<author>pan30</author>
+<date>2014-02-13T17:47:53.025330Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/VisualizedTestCapturePawn.java</name>
+<size>713</size>
+<commit
+   revision="4289">
+<author>pan30</author>
+<date>2014-02-13T19:35:01.026700Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/VisualizedTestHopperQueen.java</name>
+<size>569</size>
+<commit
+   revision="4280">
+<author>pan30</author>
+<date>2014-02-13T19:23:18.119188Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.classpath</name>
+<size>379</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.project</name>
+<size>389</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.settings</name>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.settings/org.eclipse.jdt.core.prefs</name>
+<size>598</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin</name>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin/chessPieces</name>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chessPieces/Bishop.class</name>
+<size>1688</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chessPieces/Board.class</name>
+<size>548</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chessPieces/Cannon.class</name>
+<size>1980</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chessPieces/HopperQueen.class</name>
+<size>2000</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chessPieces/King.class</name>
+<size>1491</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chessPieces/Knight.class</name>
+<size>1507</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chessPieces/Pawn.class</name>
+<size>1707</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chessPieces/Pieces.class</name>
+<size>1144</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chessPieces/Player.class</name>
+<size>1761</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chessPieces/Queen.class</name>
+<size>1976</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chessPieces/Rook.class</name>
+<size>1644</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chessPieces/StandardBoard.class</name>
+<size>9204</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin/gameInterface</name>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/gameInterface/GameControl.class</name>
+<size>3191</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/gameInterface/GameView$1.class</name>
+<size>1102</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/gameInterface/GameView$2.class</name>
+<size>1377</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/gameInterface/GameView$3.class</name>
+<size>1343</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/gameInterface/GameView.class</name>
+<size>4645</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin/tests</name>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/tests/GUITestPlan</name>
+<size>578</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/tests/TestEndGame.class</name>
+<size>1516</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/tests/TestInit.class</name>
+<size>738</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/tests/TestPawn.class</name>
+<size>1135</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/tests/TestQueen.class</name>
+<size>1188</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/tests/VisualizedTestCannon.class</name>
+<size>1272</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/tests/VisualizedTestCapturePawn.class</name>
+<size>1175</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/tests/VisualizedTestHopperQueen.class</name>
+<size>1295</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/images</name>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/chess_piece_black_bishop.png</name>
+<size>2341</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/chess_piece_black_king.png</name>
+<size>3520</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/chess_piece_black_knight.png</name>
+<size>2475</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/chess_piece_black_pawn.png</name>
+<size>1379</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/chess_piece_black_queen.png</name>
+<size>3601</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/chess_piece_black_rook.png</name>
+<size>1684</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/chess_piece_white_bishop.png</name>
+<size>3147</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/chess_piece_white_king.png</name>
+<size>3614</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/chess_piece_white_knight.png</name>
+<size>2971</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/chess_piece_white_pawn.png</name>
+<size>2052</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/chess_piece_white_queen.png</name>
+<size>4749</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/chess_piece_white_rook.png</name>
+<size>2124</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/manual_test.doc</name>
+<size>57344</size>
+<commit
+   revision="5728">
+<author>pan30</author>
+<date>2014-02-20T22:16:47.735171Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src</name>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/chessPieces</name>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chessPieces/Bishop.java</name>
+<size>2096</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chessPieces/Board.java</name>
+<size>664</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chessPieces/Cannon.java</name>
+<size>3288</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chessPieces/HopperQueen.java</name>
+<size>3304</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chessPieces/King.java</name>
+<size>1928</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chessPieces/Knight.java</name>
+<size>1716</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chessPieces/Pawn.java</name>
+<size>2431</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chessPieces/Pieces.java</name>
+<size>1383</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chessPieces/Player.java</name>
+<size>1418</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chessPieces/Queen.java</name>
+<size>3026</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chessPieces/Rook.java</name>
+<size>2040</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chessPieces/StandardBoard.java</name>
+<size>14968</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/gameInterface</name>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/gameInterface/GameControl.java</name>
+<size>2986</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/gameInterface/GameView.java</name>
+<size>4628</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/tests</name>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/GUITestPlan</name>
+<size>578</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/TestEndGame.java</name>
+<size>1271</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/TestInit.java</name>
+<size>398</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/TestPawn.java</name>
+<size>1178</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/TestQueen.java</name>
+<size>870</size>
+<commit
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/VisualizedTestCannon.java</name>
+<size>736</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/VisualizedTestCapturePawn.java</name>
+<size>697</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/VisualizedTestHopperQueen.java</name>
+<size>756</size>
+<commit
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="6682">
+<author>pan30</author>
+<date>2014-02-27T20:22:26.741524Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/Assignment2</name>
+<commit
+   revision="6682">
+<author>pan30</author>
+<date>2014-02-27T20:22:26.741524Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Assignment2/.project</name>
+<size>382</size>
+<commit
+   revision="6682">
+<author>pan30</author>
+<date>2014-02-27T20:22:26.741524Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Assignment2/.pydevproject</name>
+<size>431</size>
+<commit
+   revision="6682">
+<author>pan30</author>
+<date>2014-02-27T20:22:26.741524Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/Assignment2/graph</name>
+<commit
+   revision="6682">
+<author>pan30</author>
+<date>2014-02-27T20:22:26.741524Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Assignment2/graph/GUI.py</name>
+<size>2873</size>
+<commit
+   revision="6682">
+<author>pan30</author>
+<date>2014-02-27T20:22:26.741524Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Assignment2/graph/__init__.py</name>
+<size>53</size>
+<commit
+   revision="6682">
+<author>pan30</author>
+<date>2014-02-27T20:22:26.741524Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Assignment2/graph/graph.py</name>
+<size>4270</size>
+<commit
+   revision="6682">
+<author>pan30</author>
+<date>2014-02-27T20:22:26.741524Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Assignment2/graph/tests.py</name>
+<size>2951</size>
+<commit
+   revision="6682">
+<author>pan30</author>
+<date>2014-02-27T20:22:26.741524Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="7540">
+<author>pan30</author>
+<date>2014-03-06T22:30:40.029381Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment2</name>
+<commit
+   revision="7540">
+<author>pan30</author>
+<date>2014-03-06T22:30:40.029381Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2/.project</name>
+<size>382</size>
+<commit
+   revision="7512">
+<author>pan30</author>
+<date>2014-03-06T20:38:56.625778Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2/.pydevproject</name>
+<size>431</size>
+<commit
+   revision="7512">
+<author>pan30</author>
+<date>2014-03-06T20:38:56.625778Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment2/graph</name>
+<commit
+   revision="7540">
+<author>pan30</author>
+<date>2014-03-06T22:30:40.029381Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2/graph/GUI.py</name>
+<size>4318</size>
+<commit
+   revision="7512">
+<author>pan30</author>
+<date>2014-03-06T20:38:56.625778Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2/graph/__init__.py</name>
+<size>53</size>
+<commit
+   revision="7512">
+<author>pan30</author>
+<date>2014-03-06T20:38:56.625778Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2/graph/graph.py</name>
+<size>7946</size>
+<commit
+   revision="7540">
+<author>pan30</author>
+<date>2014-03-06T22:30:40.029381Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2/graph/graphUtility.py</name>
+<size>3846</size>
+<commit
+   revision="7512">
+<author>pan30</author>
+<date>2014-03-06T20:38:56.625778Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2/graph/tests.py</name>
+<size>4817</size>
+<commit
+   revision="7512">
+<author>pan30</author>
+<date>2014-03-06T20:38:56.625778Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0</name>
+<commit
+   revision="1746">
+<author>pan30</author>
+<date>2014-01-30T20:38:59.826526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.classpath</name>
+<size>307</size>
+<commit
+   revision="1738">
+<author>pan30</author>
+<date>2014-01-30T20:15:40.345512Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.project</name>
+<size>362</size>
+<commit
+   revision="1738">
+<author>pan30</author>
+<date>2014-01-30T20:15:40.345512Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/.settings</name>
+<commit
+   revision="1738">
+<author>pan30</author>
+<date>2014-01-30T20:15:40.345512Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>629</size>
+<commit
+   revision="1738">
+<author>pan30</author>
+<date>2014-01-30T20:15:40.345512Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/COPYING</name>
+<size>18011</size>
+<commit
+   revision="1738">
+<author>pan30</author>
+<date>2014-01-30T20:15:40.345512Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin</name>
+<commit
+   revision="1746">
+<author>pan30</author>
+<date>2014-01-30T20:38:59.826526Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin/lanSimulation</name>
+<commit
+   revision="1746">
+<author>pan30</author>
+<date>2014-01-30T20:38:59.826526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/LANSimulation.class</name>
+<size>4731</size>
+<commit
+   revision="1746">
+<author>pan30</author>
+<date>2014-01-30T20:38:59.826526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/Network.class</name>
+<size>5511</size>
+<commit
+   revision="1746">
+<author>pan30</author>
+<date>2014-01-30T20:38:59.826526Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin/lanSimulation/internals</name>
+<commit
+   revision="1746">
+<author>pan30</author>
+<date>2014-01-30T20:38:59.826526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/internals/Node.class</name>
+<size>4692</size>
+<commit
+   revision="1746">
+<author>pan30</author>
+<date>2014-01-30T20:38:59.826526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/internals/Packet.class</name>
+<size>717</size>
+<commit
+   revision="1738">
+<author>pan30</author>
+<date>2014-01-30T20:15:40.345512Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin/lanSimulation/tests</name>
+<commit
+   revision="1746">
+<author>pan30</author>
+<date>2014-01-30T20:38:59.826526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</name>
+<size>898</size>
+<commit
+   revision="1738">
+<author>pan30</author>
+<date>2014-01-30T20:15:40.345512Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/tests/LANTests.class</name>
+<size>9536</size>
+<commit
+   revision="1746">
+<author>pan30</author>
+<date>2014-01-30T20:38:59.826526Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/doc</name>
+<commit
+   revision="1738">
+<author>pan30</author>
+<date>2014-01-30T20:15:40.345512Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="1738">
+<author>pan30</author>
+<date>2014-01-30T20:15:40.345512Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/README</name>
+<size>1230</size>
+<commit
+   revision="1738">
+<author>pan30</author>
+<date>2014-01-30T20:15:40.345512Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="1738">
+<author>pan30</author>
+<date>2014-01-30T20:15:40.345512Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="1738">
+<author>pan30</author>
+<date>2014-01-30T20:15:40.345512Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/expectedOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="1738">
+<author>pan30</author>
+<date>2014-01-30T20:15:40.345512Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="1738">
+<author>pan30</author>
+<date>2014-01-30T20:15:40.345512Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src</name>
+<commit
+   revision="1746">
+<author>pan30</author>
+<date>2014-01-30T20:38:59.826526Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation</name>
+<commit
+   revision="1746">
+<author>pan30</author>
+<date>2014-01-30T20:38:59.826526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/LANSimulation.java</name>
+<size>6073</size>
+<commit
+   revision="1746">
+<author>pan30</author>
+<date>2014-01-30T20:38:59.826526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/Network.java</name>
+<size>8476</size>
+<commit
+   revision="1746">
+<author>pan30</author>
+<date>2014-01-30T20:38:59.826526Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation/internals</name>
+<commit
+   revision="1746">
+<author>pan30</author>
+<date>2014-01-30T20:38:59.826526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/internals/Node.java</name>
+<size>7605</size>
+<commit
+   revision="1746">
+<author>pan30</author>
+<date>2014-01-30T20:38:59.826526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="1738">
+<author>pan30</author>
+<date>2014-01-30T20:15:40.345512Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation/tests</name>
+<commit
+   revision="1746">
+<author>pan30</author>
+<date>2014-01-30T20:38:59.826526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/tests/LANTests.java</name>
+<size>10578</size>
+<commit
+   revision="1746">
+<author>pan30</author>
+<date>2014-01-30T20:38:59.826526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="1738">
+<author>pan30</author>
+<date>2014-01-30T20:15:40.345512Z</date>
+</commit>
+</entry>
+</list>
+</lists>

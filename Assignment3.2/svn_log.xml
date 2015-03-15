@@ -1,0 +1,1217 @@
+<?xml version="1.0"?>
+<log>
+<logentry
+   revision="7540">
+<author>pan30</author>
+<date>2014-03-06T22:30:40.029381Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pan30/Assignment2.1/Assignment2/graph/graph.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7512">
+<author>pan30</author>
+<date>2014-03-06T20:38:56.625778Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/pan30/Assignment2.1/Assignment2/.pydevproject</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment2.1/Assignment2/graph/GUI.py</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment2.1/Assignment2/graph/graphUtility.py</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment2.1/Assignment2</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment2.1/Assignment2/graph</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment2.1/Assignment2/.project</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment2.1</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment2.1/Assignment2/graph/__init__.py</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment2.1/Assignment2/graph/graph.py</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment2.1/Assignment2/graph/tests.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6682">
+<author>pan30</author>
+<date>2014-02-27T20:22:26.741524Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment2.0/Assignment2</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment2.0/Assignment2/graph</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment2.0/Assignment2/.project</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment2.0/Assignment2/graph/__init__.py</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment2.0/Assignment2/graph/graph.py</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment2.0/Assignment2/graph/tests.py</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment2.0/Assignment2/.pydevproject</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment2.0/Assignment2/graph/GUI.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6681">
+<author>pan30</author>
+<date>2014-02-27T20:21:58.748479Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment2.0</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5736">
+<author>pan30</author>
+<date>2014-02-20T22:32:40.599754Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/chessPieces/Cannon.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/chessPieces/Queen.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/tests/VisualizedTestCannon.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/src/chessPieces/Board.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/chessPieces/Knight.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/chessPieces/Bishop.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/gameInterface/GameView$1.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/gameInterface/GameView$2.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/gameInterface/GameView$3.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/chessPieces/Board.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/src/tests/VisualizedTestCapturePawn.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/chessPieces/King.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/src/tests/VisualizedTestHopperQueen.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/src/gameInterface/GameView.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/chessPieces/HopperQueen.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/tests/VisualizedTestCapturePawn.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/tests/VisualizedTestHopperQueen.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/gameInterface/GameView.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/src/gameInterface/GameControl.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/src/chessPieces/StandardBoard.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/chessPieces/Pawn.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/gameInterface/GameControl.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/chessPieces/StandardBoard.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/chessPieces/Rook.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/src/tests/VisualizedTestCannon.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5728">
+<author>pan30</author>
+<date>2014-02-20T22:16:47.735171Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/gameInterface/GameView.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/gameInterface/GameView$2.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/manual_test.doc</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/gameInterface/GameView$3.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/src/gameInterface/GameView.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5723">
+<author>pan30</author>
+<date>2014-02-20T22:11:36.815042Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/src/gameInterface/GameControl.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/gameInterface/GameControl.class</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5721">
+<author>pan30</author>
+<date>2014-02-20T22:04:35.067849Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/gameInterface/GameView.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/src/gameInterface/GameControl.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/gameInterface/GameControl.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/bin/gameInterface/GameView$3.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.2/src/gameInterface/GameView.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5720">
+<author>pan30</author>
+<date>2014-02-20T22:00:55.116695Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/chessPieces/Queen.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/images/chess_piece_white_pawn.png</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/images/chess_piece_black_rook.png</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/tests/TestQueen.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/chessPieces/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/gameInterface/GameView$1.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/images/chess_piece_white_queen.png</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.2</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/gameInterface/GameView$3.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/tests/VisualizedTestHopperQueen.java</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.2/images</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/chessPieces/HopperQueen.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/chessPieces/Player.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/tests/VisualizedTestCapturePawn.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/tests/GUITestPlan</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/chessPieces/Pawn.java</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.2/bin/tests</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/chessPieces/StandardBoard.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/chessPieces/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/manual_test.doc</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.2/src/gameInterface</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/chessPieces/Cannon.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/chessPieces/StandardBoard.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/tests/TestPawn.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/chessPieces/Rook.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/tests/TestQueen.java</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.2/src</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/chessPieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/images/chess_piece_black_bishop.png</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/tests/VisualizedTestCapturePawn.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/images/chess_piece_white_knight.png</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/images/chess_piece_black_king.png</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.2/bin</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/tests/VisualizedTestHopperQueen.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/gameInterface/GameControl.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/images/chess_piece_black_pawn.png</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.2/src/chessPieces</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/tests/VisualizedTestCannon.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/chessPieces/Cannon.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/tests/GUITestPlan</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.2/src/tests</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/images/chess_piece_black_queen.png</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/images/chess_piece_white_rook.png</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/chessPieces/Knight.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/gameInterface/GameView$2.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/.classpath</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/chessPieces/Board.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/chessPieces/King.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/gameInterface/GameView.java</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.2/bin/chessPieces</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/tests/TestEndGame.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/chessPieces/Pieces.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/tests/TestPawn.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/tests/TestEndGame.class</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.2/.settings</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/chessPieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/chessPieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/tests/VisualizedTestCannon.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/chessPieces/Board.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/chessPieces/King.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/chessPieces/HopperQueen.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/chessPieces/Player.java</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.2/bin/gameInterface</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/images/chess_piece_black_knight.png</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/images/chess_piece_white_bishop.png</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/gameInterface/GameView.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/images/chess_piece_white_king.png</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/tests/TestInit.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/src/chessPieces/Rook.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/gameInterface/GameControl.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/tests/TestInit.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/bin/chessPieces/Pieces.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.2/.project</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5003">
+<author>pan30</author>
+<date>2014-02-16T07:19:58.274075Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/images/chess_piece_white_pawn.png</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/images/chess_piece_black_rook.png</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/bin/gameInterface/GameView.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/images/chess_piece_white_king.png</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/images/chess_piece_black_queen.png</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/images/StandardBoard.jpg</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/images/chess_piece_white_rook.png</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/images/chess_piece_white_queen.png</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/images/chess_piece_black_bishop.png</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/images/chess_piece_black_knight.png</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/images/chess_piece_black_pawn.png</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/src/gameInterface/GameView.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/images/chess_piece_black_king.png</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/images/chess_piece_white_bishop.png</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/images/chess_piece_white_knight.png</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5001">
+<author>pan30</author>
+<date>2014-02-16T06:50:22.839248Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/manual_test.doc</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4312">
+<author>pan30</author>
+<date>2014-02-13T20:05:20.045998Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/src/tests/GUITestPlan</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/bin/tests/GUITestPlan</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4309">
+<author>pan30</author>
+<date>2014-02-13T20:01:17.848036Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/src/tests/GUITestPlan</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4289">
+<author>pan30</author>
+<date>2014-02-13T19:35:01.026700Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/bin/tests/VisualizedTestCapturePawn.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/src/tests/TestEndGame.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/bin/gameInterface/GameView.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/src/tests/TestInit.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/bin/tests/TestEndGame.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/src/tests/TestPawn.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/src/chessPieces/Player.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/src/tests/VisualizedTestCapturePawn.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/src/gameInterface/GameView.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/bin/chessPieces/Player.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/src/tests/TestQueen.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4280">
+<author>pan30</author>
+<date>2014-02-13T19:23:18.119188Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/bin/tests/VisualizedTestHopperQueen.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/bin/gameInterface/GameView.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/src/chessPieces/StandardBoard.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/src/chessPieces/Player.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/bin/chessPieces/StandardBoard.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/src/tests/VisualizedTestHopperQueen.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/src/gameInterface/GameView.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/bin/chessPieces/Player.class</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4247">
+<author>pan30</author>
+<date>2014-02-13T17:57:11.233484Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/pan30/Assignment1.1/configure</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/Doxyfile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4246">
+<author>pan30</author>
+<date>2014-02-13T17:56:33.646117Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/configure</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4244">
+<author>pan30</author>
+<date>2014-02-13T17:47:53.025330Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/bin/tests/VisualizedTestCannon.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/bin/tests/TestQueen.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/src/chessPieces/Board.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/src/chessPieces/HopperQueen.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/src/chessPieces/Player.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/bin/chessPieces/Board.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/src/tests/VisualizedTestCapturePawn.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/src/tests/VisualizedTestHopperQueen.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/bin/chessPieces/HopperQueen.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/src/gameInterface/GameView.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/bin/chessPieces/Player.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/bin/tests/VisualizedTestCapturePawn.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/bin/tests/VisualizedTestHopperQueen.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/bin/gameInterface/GameView.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/src/chessPieces/StandardBoard.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/src/tests/TestPawn.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/src/chessPieces/Cannon.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/bin/chessPieces/StandardBoard.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/bin/tests/TestPawn.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/src/tests/VisualizedTestCannon.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/bin/chessPieces/Cannon.class</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4099">
+<author>pan30</author>
+<date>2014-02-13T06:54:49.320508Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/images/chess_piece_white_pawn.png</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/bin/chessPieces/Queen.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/images/chess_piece_black_rook.png</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.1/src/tests</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/src/chessPieces/Board.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/images/chess_piece_white_rook.png</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/images/StandardBoard.jpg</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/bin/chessPieces/Board.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/src/gameInterface/GameView.java</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.1/bin/chessPieces</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.1/bin/tests</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/bin/gameInterface/GameView.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/src/chessPieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/src/chessPieces/Pieces.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/bin/tests/TestEndGame.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/src/tests/TestPawn.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/bin/tests/TestInit.class</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.1/src/gameInterface</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/bin/chessPieces/StandardBoard.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/bin/chessPieces/Pieces.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/src/chessPieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/src/chessPieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/images/chess_piece_black_queen.png</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/src/chessPieces/King.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/bin/chessPieces/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/bin/chessPieces/Knight.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/images/chess_piece_white_queen.png</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.1/.classpath</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/src/chessPieces/Player.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/images/chess_piece_black_knight.png</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/images/chess_piece_black_bishop.png</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/bin/chessPieces/King.class</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.1/bin/gameInterface</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.1/images</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/bin/chessPieces/Player.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/images/chess_piece_black_king.png</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/images/chess_piece_white_bishop.png</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/images/chess_piece_white_knight.png</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/src/tests/TestEndGame.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/images/chess_piece_white_king.png</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/src/tests/TestInit.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/src/chessPieces/StandardBoard.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/bin/chessPieces/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/src/chessPieces/Rook.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/src/chessPieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/images/chess_piece_black_pawn.png</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/bin/tests/TestPawn.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/bin/chessPieces/Rook.class</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.1/src/chessPieces</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/src/tests/TestQueen.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3686">
+<author>pan30</author>
+<date>2014-02-11T04:19:29.367933Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.1/src</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.1/bin</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.1/.settings</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.1</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/.classpath</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.1/.project</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3111">
+<author>pan30</author>
+<date>2014-02-06T20:34:19.587123Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.0/bin/chessPieces/Test1.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.0/src/chessPieces/Board.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.0/bin/chessPieces/Board.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.0/src/chessPieces/Queen.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.0/src/chessPieces/Test1.java</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.0/bin/chessPieces/Queen.class</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3081">
+<author>pan30</author>
+<date>2014-02-06T19:24:58.939233Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.0/src/chessPieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.0/src/chessPieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.0/src/chessPieces/Board.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.0/src/chessPieces/King.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.0/bin/chessPieces/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.0/bin/chessPieces/Knight.class</path>
+<path
+   kind="file"
+   action="M">/pan30/Assignment1.0/.classpath</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.0/bin/chessPieces/Board.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.0/bin/chessPieces/King.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.0/src/chessPieces/Test1.java</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.0/bin/chessPieces</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.0/src/chessPieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.0/bin/chessPieces/Test1.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.0/src/chessPieces/Pieces.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.0/bin/chessPieces/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.0/src/chessPieces/Rook.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.0/src/chessPieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.0/bin/chessPieces/Pieces.class</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.0/bin/chessPieces/Rook.class</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.0/src/chessPieces</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.0/bin/chessPieces/Queen.class</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2629">
+<author>pan30</author>
+<date>2014-02-04T21:26:55.173823Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.0/bin</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.0/.settings</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.0</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.0/.classpath</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment1.0/.project</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment1.0/src</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1845">
+<author>pan30</author>
+<date>2014-01-30T22:46:08.255925Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pan30/Assignment0/maze.cpp</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1834">
+<author>pan30</author>
+<date>2014-01-30T22:34:55.925779Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/pan30/Assignment0/maze.h</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1746">
+<author>pan30</author>
+<date>2014-01-30T20:38:59.826526Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pan30/HW0/bin/lanSimulation/Network.class</path>
+<path
+   kind="file"
+   action="M">/pan30/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="file"
+   action="M">/pan30/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="file"
+   action="A">/pan30/Assignment0/maze.cpp</path>
+<path
+   kind="dir"
+   action="A">/pan30/Assignment0</path>
+<path
+   kind="file"
+   action="M">/pan30/HW0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   kind="file"
+   action="M">/pan30/HW0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="file"
+   action="M">/pan30/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="M">/pan30/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="M">/pan30/HW0/src/lanSimulation/Network.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1738">
+<author>pan30</author>
+<date>2014-01-30T20:15:40.345512Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/pan30/HW0/.project</path>
+<path
+   kind="file"
+   action="A">/pan30/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="dir"
+   action="A">/pan30/HW0/bin/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/pan30/HW0/bin/lanSimulation</path>
+<path
+   kind="dir"
+   action="A">/pan30/HW0/src</path>
+<path
+   kind="file"
+   action="A">/pan30/HW0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="file"
+   action="A">/pan30/HW0/useOutput.txt</path>
+<path
+   kind="file"
+   action="A">/pan30/HW0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/pan30/HW0/.classpath</path>
+<path
+   kind="file"
+   action="A">/pan30/HW0/expectedOutput.txt</path>
+<path
+   kind="file"
+   action="A">/pan30/HW0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="file"
+   action="A">/pan30/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="dir"
+   action="A">/pan30/HW0/doc</path>
+<path
+   kind="file"
+   action="A">/pan30/HW0/doc/toDoList</path>
+<path
+   kind="file"
+   action="A">/pan30/HW0/javadoc.xml</path>
+<path
+   kind="dir"
+   action="A">/pan30/HW0/src/lanSimulation/tests</path>
+<path
+   kind="dir"
+   action="A">/pan30/HW0/bin</path>
+<path
+   kind="file"
+   action="A">/pan30/HW0/COPYING</path>
+<path
+   kind="file"
+   action="A">/pan30/HW0/doc/RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/pan30/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="A">/pan30/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/pan30/HW0/bin/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/pan30/HW0/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/pan30/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="file"
+   action="A">/pan30/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="dir"
+   action="A">/pan30/HW0</path>
+<path
+   kind="file"
+   action="A">/pan30/HW0/doc/README</path>
+<path
+   kind="dir"
+   action="A">/pan30/HW0/src/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/pan30/HW0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/pan30/HW0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   kind="dir"
+   action="A">/pan30/HW0/.settings</path>
+<path
+   kind="file"
+   action="A">/pan30/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/pan30/HW0/src/lanSimulation/Network.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="129">
+<author>root</author>
+<date>2014-01-26T21:15:33.660331Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/pan30</path>
+</paths>
+<msg>created directory pan30</msg>
+</logentry>
+</log>
